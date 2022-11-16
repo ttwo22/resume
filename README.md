@@ -18,7 +18,9 @@
 
 **项目一：Verify-Top项目**
 
-`web3`线上审计合约项目，我主要负责前端开发，根据网站设计图使用`React` + `arco.design`UI框架进行响应式开发。技术点主要是
+`web3`线上审计合约项目，我主要负责前端开发，根据网站设计图使用`React` + `arco.design`UI框架进行响应式开发。
+
+技术点主要是：
 
 1. 实现`Google`登录，注册`Google`开发者社区配置信息调用登录`Api`
 2. 使用`react-i18next`进行国际化翻译
@@ -33,9 +35,9 @@
 
 ### 工作描述
 
-**前期	**主要是学习`web3`开发为主，使用`hardhat`合约部署，使用`ethers + MetaMask`与合约交互，用`React + Moralis + MetaMask`开发`Dapp`应用
+**前期** 主要是学习`web3`开发为主，使用`hardhat`合约部署，使用`ethers + MetaMask`与合约交互，用`React + Moralis + MetaMask`开发`Dapp`应用
 
-**后期	**协助团队开发公司项目，大多数都是网页端游戏开发，主要技术栈`React + sass + Moralis`
+**后期** 协助团队开发公司项目，大多数都是网页端游戏开发，主要技术栈`React + sass + Moralis`
 
 ## 专业技能
 
