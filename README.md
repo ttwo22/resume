@@ -32,17 +32,15 @@
 
 **Verify-Top项目**
 
-`web3`线上审计合约项目，个人主要负责前端开发，根据原型图使用React + sass + Arco.designUI框架进行响应式开发，对Arco.design框架进行二次封装Modal、Button组件，实现Google登录，使用react-i18next进行国际化翻译，用Moralis与合约交互，Dapp提交数据存储在Moralis数据库。
+`web3`线上审计合约项目，个人主要负责前端开发，根据原型图使用React + sass + Arco.designUI框架进行响应式开发，对Arco.design框架进行二次封装Modal、Button组件，实现Google登录，使用react-i18next进行国际化翻译，用Moralis与合约交互，前端提交数据存储在Moralis线上服务器的数据库。
 
 ### 专业技能
 
-> 前端：H5，CSS3，Js，ES6，Node.js，Express，Vue2全家桶，React，Git，Ajax，Ts，uni-app，Tailwind
->
-> 其他语言：Go，PHP，MongoDB，C#
+> 技能 ：H5，CSS3，Js，ES6，Node.js，Express，Vue2全家桶，React，Git，Ajax，Ts，uni-app，Tailwind
 
-具有响应式开发、前后端分离、使用uni-app开发小程序的项目经验；
+具有响应式开发、前后端分离网站项目开发经验，使用uni-app开发过商城小程序;
 
-验熟悉前端开发框架:`Vue`/`React`进行组件化开发；
+熟悉前端开发框架:`Vue`/`React`，掌握后端语言Go，PHP，MongoDB，C#基础;
 
 熟练`Flex`布局，预处理器`Sass`，熟悉`AntDesign`，`ElementUl`等前端UI框架，了解`Less`和`grid`；
 
