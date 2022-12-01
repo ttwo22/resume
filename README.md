@@ -32,7 +32,7 @@
 
 **Verify-Top项目**
 
-`web3`线上审计合约项目，个人主要负责前端开发，根据原型图使用React + sass + Arco.designUI框架进行响应式开发，对Arco.design框架进行二次封装Modal、Button组件，使用Moralis进行连接MetaMask钱包，表单提交数据存储在Moralis数据库等等
+`web3`线上审计合约项目，个人主要负责前端开发，根据原型图使用React + sass + Arco.designUI框架进行响应式开发，对Arco.design框架进行二次封装Modal、Button组件等等，使用Moralis与合约交互，Dapp提交数据存储在Moralis数据库。
 
 ### 专业技能
 
